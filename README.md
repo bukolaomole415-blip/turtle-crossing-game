@@ -55,6 +55,8 @@ This project is the **Turtle Crossing Capstone** from my *100 Days of Code* Pyth
 
 ## 🚀 How to Run
 ```
+Clone the repo:
+git clone https://github.com/bukolaomole415-blip/python-turtle-crossing-game.git
 
 python main.py
 Requires Python with the built-in turtle module.
