@@ -2,6 +2,10 @@
 Turtle Crossing capstone project built with Python Turtle (100 Days of Code)
 
 # 🐢 Turtle Crossing Game
+<p align="center">
+  <img src="media/preview.gif" alt="Gameplay preview" width="600"/>
+</p>
+
 
 A Python implementation of the classic **Frogger-style crossing game**, built using the `turtle` graphics module.  
 This project is the **Turtle Crossing Capstone** from my *100 Days of Code* Python course.
